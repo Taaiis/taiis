@@ -36,7 +36,7 @@ Dê uma olhada no meu percurso profissional e sinta-se à vontade para entrar em
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ta%C3%ADs-pereira-da-silva-120915207/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="mailto:seu-email@exemplo.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:taispereira.pessoal@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
